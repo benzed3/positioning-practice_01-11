@@ -31,6 +31,6 @@ h1 {
     bottom: 0;
     /*puts div right at bottom*/
     right: -30px;
-    /*puts div in right corner*/
+    /*moves div to the right*/
     padding: 30px 50px 30px 50px;
 }
