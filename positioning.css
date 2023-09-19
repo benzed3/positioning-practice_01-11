@@ -29,6 +29,8 @@ h1 {
     background: #999;
     position: absolute;
     bottom: 0;
+    /*puts div right at bottom*/
     right: -30px;
+    /*puts div in right corner*/
     padding: 30px 50px 30px 50px;
 }
