@@ -19,6 +19,7 @@ h1 {
 }
 
 #relative {
+    /*used for when you want to move element based on its original position*/
     background: #eee;
     position: relative;
     padding: 10px 0 130px 0;
@@ -26,6 +27,7 @@ h1 {
 }
 
 #absolute {
+    /*used for when you want to move element based on its parent; if no parent, it move according to the screen*/
     background: #999;
     position: absolute;
     bottom: 0;
